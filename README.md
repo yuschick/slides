@@ -6,5 +6,6 @@ This repo serves as a collection of PDF files used to present at various events 
 | ------------------------------------------------------- | --------------- | ---------- | -------------------------------------------------------- |
 | The Shopping Dead: Accessible Live Data For The Unalive | HelsinkiJS | 11.03.2025 | [Slides](2025-03-11--helsinki-js--the-shopping-dead.pdf) |
 | Beyond JavaScript - Building UIs With Modern HTML & CSS | Future Frontend | 24.02.2025 | [Slides](2025-02-24--future-frontend--beyond-javascript.pdf) |
+| Building Better Components - A Journey To A More Resilient Frontend  | NDC Oslo | 21.05.2025 | [Slides](2025-05-21--ndc-oslo--building-better-components.pdf) |
 | Hand Off! Lift Off! Design Systems Bridging Time And Space (And Species?)  | Turku ❤️ Frontend | 28.05.2025 | [Slides](2025-05-28--turku-frontend--hand-off-lift-off.pdf) |
 | Hand Off! Lift Off! Design Systems Bridging Time And Space (And Species?)  | Into Design Systems | 29.05.2025 | [Slides](2025-05-29--into-design-systems--hand-off-lift-off.pdf) |
